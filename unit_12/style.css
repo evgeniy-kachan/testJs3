@@ -1,0 +1,28 @@
+html, body {
+    font-family: serif;
+}
+body {
+    margin: 20px;
+}
+.black {
+    width: 70px;
+    height: 70px;
+    background: black;
+    float: left;
+    
+}
+.white {
+    width: 70px;
+    height: 70px;
+    background: white;
+    float: left;
+     }
+
+.out-12 {
+    width: 560px;
+    height: 560px;
+    border: 1px solid black;
+    margin: 30px auto;
+   
+   
+}
